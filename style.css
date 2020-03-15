@@ -19,6 +19,7 @@ img {
 }
 
 #hop {
+  /* Code test width */
   background-color: white;
   box-shadow: 0 3px 6px rgba(0,0,0, .1);
   padding: 1rem;
@@ -154,7 +155,7 @@ img {
 
 @media (max-width: 997px) {
   #hop {
-    width: 84%;
+    width: 90%;
     margin-bottom: 2rem;
   }
   
