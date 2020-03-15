@@ -1,5 +1,5 @@
-const yourDate = new Date("2017-12-31T00:00:00"),
-music = ['always', 'everytime', 'yeuduockhong'];
+const yourDate = new Date("2020-03-14T22:38:00"), //Ngày Valentine Trắng 14/3/2020 - 22h38p
+music = ['music1', 'music2', 'music3', 'music4'];
 
 document.addEventListener('DOMContentLoaded', function(){
       var rootTime = document.querySelector("time");

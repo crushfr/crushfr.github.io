@@ -1,22 +1,25 @@
 $(document).ready(function() {
     var t = [{
+        name: "Sinh Nhật Tuổi 18",
+        m1: Date.parse("Jan 09 2020 00:00:00")
+    }, {
         name: "Sinh Nhật Tuổi 19",
-        m1: Date.parse("Feb 23 2020 00:00:00")
+        m1: Date.parse("Jan 09 2021 00:00:00")
     }, {
         name: "Sinh Nhật Tuổi 20",
-        m1: Date.parse("Feb 23 2021 00:00:00")
+        m1: Date.parse("Jan 09 2022 00:00:00")
     }, {
         name: "Sinh Nhật Tuổi 21",
-        m1: Date.parse("Feb 23 2022 00:00:00")
+        m1: Date.parse("Jan 09 2023 00:00:00")
     }, {
         name: "Sinh Nhật Tuổi 22",
-        m1: Date.parse("Feb 23 2023 00:00:00")
+        m1: Date.parse("Jan 09 2024 00:00:00")
     }, {
         name: "Sinh Nhật Tuổi 23",
-        m1: Date.parse("Feb 23 2024 00:00:00")
+        m1: Date.parse("Jan 09 2025 00:00:00")
     }, {
         name: "Sinh Nhật Tuổi 24",
-        m1: Date.parse("Feb 23 2025 00:00:00")
+        m1: Date.parse("Jan 09 2026 00:00:00")
     }]
       , e = t.length;
     setInterval(function() {
